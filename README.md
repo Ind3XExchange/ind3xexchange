@@ -15,6 +15,7 @@ Have BTC, ETH, BCH, Ind3X, US$ and IDR trading pairs.
 Ind3X Token is a utility token use to utilize Ind3X Exchange. It can be traded not only at Ind3X Exchange but also at other exchanges. By holding 100.000.000 Ind3X Token in accout at Ind3X Exchange you entitle to premium members with an advantage of having free transaction fees on depositing, trading and withdrawing.
 
 ICO Crowdsale Phase 2
+
 Min contribution 0.01 ETH.
 Send to smart contract: 0x44d269b126443007C2241E034416100fB7fDe3cB
 Send 0.01 Eth, you get 200.000 $Ind3X Token + 8% bonus
@@ -31,7 +32,8 @@ ICO phase 2 ends on November 30, 2018
 Listing Price: $0.001 or 500 gwei @ mercatox and idex, and 1000 gwei @ our Ind3X Exchange.
 Now trading at Etherdelta, Forkdelta and Tokenjar.
 
-Airdrops (Earns up to $250 free)
+AIRDROPS (worth up to $250)
+
 Twitter airdrop
 Get 50k Ind3X token worth $50
 https://twitter.com/Official_Ind3X/status/1060341455552602112
@@ -45,5 +47,18 @@ Earn 100K Ind3X worth $100
 https://docs.google.com/forms/d/e/1FAIpQLSdVBeLv2DaLTQPEt3xf12x8rJ1hTLm7AUKEFkNXN2ng9Oyy4A/viewform
 
 
+SOCIAL MEDIA
+Website: https://ind3x.co.id
+Exchange Pre-Alpha version: https://exchange.ind3x.co.id
+Whitepaper: https://ind3x.co.id/attachments/Ind3X-WHITEPAPER.pdf
+TWITTER: https://twitter.com/Official_Ind3X
+Telegram: https://t.me/ind3x_official_chat_group
+Medium: https://medium.com/@ind3xid
+Facebook: https://www.facebook.com/indExchange
+Discord: https://discord.gg/gdMEak4
+Gab: https://gab.com/Ind3X
+Instagram: https://instagram.com/ind3xexchange
+Reddit: https://www.reddit.com/user/Ind3XExchange
+Bitcointalk: https://bitcointalk.org/index.php?topic=5045885
 
 
